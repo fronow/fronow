@@ -11,33 +11,33 @@ I'm Dilyan, Front-End developer from <img src="https://i.ibb.co/8xRQfhZ/4i9rsorl
 <h3 align="left">Languages I code with:</h3>
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
 </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
 </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
 </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
 </a>
   <!-- Tools  -->
   <h3 align="left">Tools I work with:</h3>
 <p align="left">
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="50" height="50"/>
 </a> 
  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
+    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="50" height="50"/> </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
 </a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/>
 </a> 
  <a href="https://chat.openai.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="photoshop" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="photoshop" width="50" height="50"/>
 </a> 
   
 
@@ -71,15 +71,15 @@ I'm Dilyan, Front-End developer from <img src="https://i.ibb.co/8xRQfhZ/4i9rsorl
 
 ## Where to find me
 
-<p align="left">
+<p align="center">
  <a href="https://www.linkedin.com/in/dfronow" target="_blank">
-  <img src="https://i.ibb.co/KctRk07/linkedin.png" alt="Fronow" width="13" />
+  <img src="https://i.ibb.co/KctRk07/linkedin.png" alt="Fronow" width="60" height="60" />
  </a>
  <a href="https://twitter.com/DFronow" target="_blank">
-  <img src="https://i.ibb.co/c3Cq8hq/twitter.png" width="50" />
+  <img src="https://i.ibb.co/c3Cq8hq/twitter.png" width="60" height="60" />
  </a>
  <a href="http://wa.me/+359883515393" target="_blank">
-  <img src="https://i.ibb.co/wprVRhK/whatsapp.png" alt="Fronow" width="13" />
+  <img src="https://i.ibb.co/wprVRhK/whatsapp.png" alt="Fronow" width="60" height="60" />
   </a> 
 </p>
 <br />
