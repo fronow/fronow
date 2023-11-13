@@ -73,13 +73,13 @@ I'm Dilyan, Front-End developer from <img src="https://i.ibb.co/8xRQfhZ/4i9rsorl
 
 <p align="center">
  <a href="https://www.linkedin.com/in/dfronow" target="_blank">
-  <img src="https://i.ibb.co/KctRk07/linkedin.png" alt="Fronow" width="60" height="60" />
+  <img src="https://i.ibb.co/KctRk07/linkedin.png" alt="Fronow" width="50" height="50" />
  </a>
  <a href="https://twitter.com/DFronow" target="_blank">
-  <img src="https://i.ibb.co/c3Cq8hq/twitter.png" width="60" height="60" />
+  <img src="https://i.ibb.co/c3Cq8hq/twitter.png" width="50" height="50" />
  </a>
  <a href="http://wa.me/+359883515393" target="_blank">
-  <img src="https://i.ibb.co/wprVRhK/whatsapp.png" alt="Fronow" width="60" height="60" />
+  <img src="https://i.ibb.co/wprVRhK/whatsapp.png" alt="Fronow" width="50" height="50" />
   </a> 
 </p>
 <br />
