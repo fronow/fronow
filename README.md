@@ -7,17 +7,14 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://Fronow.com">Al Siam</a></b>
+        <samp>&gt; Hey! Nice to see you.
         </samp>
 </h3>
 
 
-<p align="center"> 
-  <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
-    <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+
+    Welcome to my page!
+I'm Dilyan, Front-End developer from <img src="https://i.ibb.co/8xRQfhZ/4i9rsorlsra2sstlb7qh46ddav-cb9ae4832297fe0985877b03e10230b6.png" />
     <br>
     <br>
   </samp>
