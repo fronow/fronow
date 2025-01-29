@@ -64,8 +64,8 @@ At MrGain, we're building:
  <a href="https://mrgain.io" target="_blank">
   <img src="https://i.ibb.co/rK0p0mf9/internet.png" alt="Website" width="60" height="60" style="object-fit: contain" />
  </a>
- <a href="https://app.mrgain.io" target="_blank">
-  <img src="https://i.ibb.co/rK0p0mf9/internet.png" alt="DApp" width="60" height="60" style="object-fit: contain" />
+ <a href="admin@mrgain.io" target="_blank">
+  <img src="https://i.ibb.co/nqVrcrdN/mail.png" alt="DApp" width="60" height="60" style="object-fit: contain" />
  </a>
  <a href="https://twitter.com/MrGainSol" target="_blank">
   <img src="https://i.ibb.co/Q3pKmNL2/twitter.png" alt="Twitter" width="60" height="60" style="vertical-align: middle" />
