@@ -5,6 +5,7 @@
 
 **Next-Gen NFT Trading on Solana**  
 Innovative dApp leveraging Solana's high-speed blockchain for seamless NFT experiences.
+<img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 
 <!-- Tech Stack  -->
 <h3 align="left">Core Tech Stack:</h3>
