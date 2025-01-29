@@ -11,7 +11,7 @@ Innovative dApp leveraging Solana's high-speed blockchain for seamless NFT exper
 <h3 align="left">Core Tech Stack:</h3>
 <p align="left"> 
   <a href="https://www.rust-lang.org/" target="_blank">
-    <img src="https://i.ibb.co/KcXJqqfk/rust-svgrepo-com.png" alt="rust" width="50" height="50"/>
+    <img src="https://i.ibb.co/KcXJqqfk/rust-svgrepo-com.png" alt="rust" width="100" height="100"/>
   </a>
   <a href="https://solana.com/" target="_blank">
     <img src="https://cryptologos.cc/logos/solana-sol-logo.svg" alt="solana" width="50" height="50"/>
@@ -63,13 +63,13 @@ At MrGain, we're building:
 
 <p align="center">
  <a href="https://mrgain.io" target="_blank">
-  <img src="https://i.ibb.co/JwwjzVMn/vecteezy-transparent-website-icon-png-14391995.png" alt="Website" width="60" height="60"/>
+  <img src="https://i.ibb.co/JwwjzVMn/vecteezy-transparent-website-icon-png-14391995.png" alt="Website" width="78" height="45"/>
  </a>
  <a href="https://app.mrgain.io" target="_blank">
-  <img src="https://i.ibb.co/JwwjzVMn/vecteezy-transparent-website-icon-png-14391995.png" alt="DApp" width="60" height="60"/>
+  <img src="https://i.ibb.co/JwwjzVMn/vecteezy-transparent-website-icon-png-14391995.png" alt="DApp" width="78" height="45"/>
  </a>
  <a href="https://twitter.com/MrGainSol" target="_blank">
-  <img src="https://i.ibb.co/FFPBdpD/vecteezy-new-twitter-x-logo-twitter-icon-x-social-media-icon-42148611.png" alt="Twitter" width="60" height="60"/>
+  <img src="https://i.ibb.co/FFPBdpD/vecteezy-new-twitter-x-logo-twitter-icon-x-social-media-icon-42148611.png" alt="Twitter" width="90" height="90"/>
  </a>
  <a href="https://t.me/mrgainofficial" target="_blank">
   <img src="https://i.ibb.co/PZgyHQf8/vecteezy-telegram-png-icon-16716472.png" alt="Telegram" width="60" height="60"/>
