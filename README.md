@@ -11,7 +11,7 @@ Innovative dApp leveraging Solana's high-speed blockchain for seamless NFT exper
 <h3 align="left">Core Tech Stack:</h3>
 <p align="left"> 
   <a href="https://www.rust-lang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="50" height="50"/>
+    <img src="https://i.ibb.co/KcXJqqfk/rust-svgrepo-com.png" alt="rust" width="50" height="50"/>
   </a>
   <a href="https://solana.com/" target="_blank">
     <img src="https://cryptologos.cc/logos/solana-sol-logo.svg" alt="solana" width="50" height="50"/>
@@ -19,19 +19,17 @@ Innovative dApp leveraging Solana's high-speed blockchain for seamless NFT exper
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
   </a>
-  <a href="https://web3js.readthedocs.io/" target="_blank">
-    <img src="https://docs.soliditylang.org/en/v0.8.17/_static/logo.svg" alt="web3" width="50" height="50"/>
-  </a>
+ 
 </p>
 
 <!-- Ecosystem  -->
 <h3 align="left">Supported Ecosystem:</h3>
 <p align="left">
   <a href="https://solflare.com/" target="_blank">
-    <img src="https://solflare.com/assets/logo-square.png" alt="solflare" width="50" height="50"/>
+    <img src="https://i.ibb.co/CRmdxZW/solflare.png" alt="solflare" width="50" height="50"/>
   </a>
   <a href="https://phantom.app/" target="_blank">
-    <img src="https://phantom.app/img/phantom-logo.svg" alt="phantom" width="50" height="50"/>
+    <img src="https://i.ibb.co/KzqD0bc4/phantom.png" alt="phantom" width="50" height="50"/>
   </a>
   <a href="https://trustwallet.com/" target="_blank">
     <img src="https://trustwallet.com/assets/images/media/assets/TWT.png" alt="trustwallet" width="50" height="50"/>
@@ -54,8 +52,8 @@ At MrGain, we're building:
 ### Why Choose MrGain?
 - ✅ Battle-tested security architecture
 - 💸 Lowest fees in Solana ecosystem
-- 🎨 Creator-first NFT minting tools
-- 🤖 Automated collection monitoring
+- 🎨 Creator-first NFT to Earn campaign
+- 🤖 Monetize your traffic, create your fundraise and provide to your audience earnings!
 
 </p>
 
@@ -65,15 +63,15 @@ At MrGain, we're building:
 
 <p align="center">
  <a href="https://mrgain.io" target="_blank">
-  <img src="https://img.icons8.com/3d-fluency/94/domain.png" alt="Website" width="60" height="60"/>
+  <img src="https://i.ibb.co/JwwjzVMn/vecteezy-transparent-website-icon-png-14391995.png" alt="Website" width="60" height="60"/>
  </a>
  <a href="https://app.mrgain.io" target="_blank">
-  <img src="https://img.icons8.com/3d-fluency/94/console.png" alt="DApp" width="60" height="60"/>
+  <img src="https://i.ibb.co/JwwjzVMn/vecteezy-transparent-website-icon-png-14391995.png" alt="DApp" width="60" height="60"/>
  </a>
  <a href="https://twitter.com/MrGainSol" target="_blank">
-  <img src="https://img.icons8.com/3d-fluency/94/twitter.png" alt="Twitter" width="60" height="60"/>
+  <img src="https://i.ibb.co/FFPBdpD/vecteezy-new-twitter-x-logo-twitter-icon-x-social-media-icon-42148611.png" alt="Twitter" width="60" height="60"/>
  </a>
  <a href="https://t.me/mrgainofficial" target="_blank">
-  <img src="https://img.icons8.com/3d-fluency/94/telegram-app.png" alt="Telegram" width="60" height="60"/>
+  <img src="https://i.ibb.co/PZgyHQf8/vecteezy-telegram-png-icon-16716472.png" alt="Telegram" width="60" height="60"/>
  </a>
 </p>
