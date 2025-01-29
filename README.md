@@ -3,9 +3,9 @@
 <h1 align="left">
   <a href="#hey-nice-to-see-you">Hey! Nice to see you.</a>
 </h1>
-Welcome to my page!
+Welcome to our page!
 
-I'm Dilyan, Front-End developer from <img src="https://i.ibb.co/8xRQfhZ/4i9rsorlsra2sstlb7qh46ddav-cb9ae4832297fe0985877b03e10230b6.png" width="13" /> Bulgaria, Sofia.
+We are MrGain Solana web-based innovative dApp, <img src="https://i.ibb.co/8xRQfhZ/4i9rsorlsra2sstlb7qh46ddav-cb9ae4832297fe0985877b03e10230b6.png" width="13" />
 
 <!-- Languages  -->
 <h3 align="left">Languages I code with:</h3>
