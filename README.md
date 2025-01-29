@@ -5,7 +5,7 @@
 </h1>
 Welcome to our page!
 
-We are MrGain Solana web-based innovative dApp, <img src="https://i.ibb.co/8xRQfhZ/4i9rsorlsra2sstlb7qh46ddav-cb9ae4832297fe0985877b03e10230b6.png" width="13" />
+We are MrGain Solana web-based innovative dApp.
 
 <!-- Languages  -->
 <h3 align="left">Languages I code with:</h3>
