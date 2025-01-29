@@ -1,89 +1,78 @@
-
 <!-- Intro  -->
 <h1 align="left">
-  <a href="#hey-nice-to-see-you">Hey! Nice to see you.</a>
+  <a href="#-welcome-to-mrgain">🚀 Welcome to MrGain</a>
 </h1>
-Welcome to our page!
 
-We are MrGain Solana web-based innovative dApp.
+**Next-Gen NFT Trading on Solana**  
+Innovative dApp leveraging Solana's high-speed blockchain for seamless NFT experiences.
 
-<!-- Languages  -->
-<h3 align="left">Languages I code with:</h3>
+<!-- Tech Stack  -->
+<h3 align="left">Core Tech Stack:</h3>
 <p align="left"> 
-  <a>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-</a> 
-  <a >
+  <a href="https://www.rust-lang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="50" height="50"/>
+  </a>
+  <a href="https://solana.com/" target="_blank">
+    <img src="https://cryptologos.cc/logos/solana-sol-logo.svg" alt="solana" width="50" height="50"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-</a> 
-  <a>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-</a>
-    <a>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-</a>
-  <!-- Tools  -->
-  <h3 align="left">Tools I work with:</h3>
+  </a>
+  <a href="https://web3js.readthedocs.io/" target="_blank">
+    <img src="https://docs.soliditylang.org/en/v0.8.17/_static/logo.svg" alt="web3" width="50" height="50"/>
+  </a>
+</p>
+
+<!-- Ecosystem  -->
+<h3 align="left">Supported Ecosystem:</h3>
 <p align="left">
-  <a>
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="50" height="50"/>
-</a> 
- <a>
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="50" height="50"/> </a> 
-  <a>
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
-</a> 
-  <a>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/>
-</a> 
- <a href="https://chat.openai.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="photoshop" width="50" height="50"/>
-</a> 
-  
-
-
-
+  <a href="https://solflare.com/" target="_blank">
+    <img src="https://solflare.com/assets/logo-square.png" alt="solflare" width="50" height="50"/>
+  </a>
+  <a href="https://phantom.app/" target="_blank">
+    <img src="https://phantom.app/img/phantom-logo.svg" alt="phantom" width="50" height="50"/>
+  </a>
+  <a href="https://trustwallet.com/" target="_blank">
+    <img src="https://trustwallet.com/assets/images/media/assets/TWT.png" alt="trustwallet" width="50" height="50"/>
+  </a>
+</p>
 
 <!-- About Section -->
- # About me
- 
+# About Us
+
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- - Passionate about programming, I find joy in crafting elegant solutions and sharing knowledge with the community.
-- A perpetual learner, I thrive on exploring new technologies and staying ahead in the dynamic world of software development.
+ <img align="right" width="350" src="/assets/nft-animation.gif" alt="NFT Platform Preview" />
 
-### 🌐 Beyond the Code:
+**Revolutionizing NFT Trading**  
+At MrGain, we're building:
+- 🛠️ Rust-powered smart contracts for bulletproof transactions
+- 🔥 Instant swaps with Solana's sub-second finality
+- 🌐 Multi-wallet support (Solflare/Phantom/Trust)
+- 📈 Advanced trading analytics & portfolio management
 
-- An avid sports enthusiast 🏋️ who believes in the balance of a healthy body and mind.
-- A dedicated traveler ✈️, always seeking new adventures and experiences.
-
-### 🚀 My Approach:
-
-- Embracing challenges is my forte. I believe they are the stepping stones to growth and excellence.
-- Constantly pushing boundaries, I make a conscious effort to step out of my comfort zone.
+### Why Choose MrGain?
+- ✅ Battle-tested security architecture
+- 💸 Lowest fees in Solana ecosystem
+- 🎨 Creator-first NFT minting tools
+- 🤖 Automated collection monitoring
 
 </p>
 
-<br/>
-<br/>
-<br/>
+<br/><br/><br/>
 
-## Where to find me
+## Connect With Us
 
 <p align="center">
- <a href="https://www.linkedin.com/in/dfronow">
-  <img src="https://i.ibb.co/KctRk07/linkedin.png" alt="Fronow" width="50" height="50" />
+ <a href="https://mrgain.io" target="_blank">
+  <img src="https://img.icons8.com/3d-fluency/94/domain.png" alt="Website" width="60" height="60"/>
  </a>
- <a href="https://twitter.com/DFronow">
-  <img src="https://i.ibb.co/c3Cq8hq/twitter.png" width="50" height="50" />
+ <a href="https://app.mrgain.io" target="_blank">
+  <img src="https://img.icons8.com/3d-fluency/94/console.png" alt="DApp" width="60" height="60"/>
  </a>
- <a href="http://wa.me/+359883515393">
-  <img src="https://i.ibb.co/wprVRhK/whatsapp.png" alt="Fronow" width="50" height="50" />
-  </a> 
+ <a href="https://twitter.com/MrGainSol" target="_blank">
+  <img src="https://img.icons8.com/3d-fluency/94/twitter.png" alt="Twitter" width="60" height="60"/>
+ </a>
+ <a href="https://t.me/mrgainofficial" target="_blank">
+  <img src="https://img.icons8.com/3d-fluency/94/telegram-app.png" alt="Telegram" width="60" height="60"/>
+ </a>
 </p>
-<br />
-
-<br/>
-
-
