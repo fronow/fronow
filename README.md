@@ -11,7 +11,7 @@ Innovative dApp leveraging Solana's high-speed blockchain for seamless NFT exper
 <h3 align="left">Core Tech Stack:</h3>
 <p align="left" style="display: flex; align-items: center; gap: 20px"> 
   <a href="https://www.rust-lang.org/" target="_blank">
-    <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="rust" width="80" height="80" style="vertical-align: middle" />
+    <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="rust" width="60" height="60" style="vertical-align: middle" />
   </a>
   <a href="https://solana.com/" target="_blank">
     <img src="https://cryptologos.cc/logos/solana-sol-logo.svg" alt="solana" width="50" height="50" style="vertical-align: middle" />
@@ -68,9 +68,9 @@ At MrGain, we're building:
   <img src="https://i.ibb.co/rK0p0mf9/internet.png" alt="DApp" width="78" height="45" style="object-fit: contain" />
  </a>
  <a href="https://twitter.com/MrGainSol" target="_blank">
-  <img src="https://i.ibb.co/FFPBdpD/vecteezy-new-twitter-x-logo-twitter-icon-x-social-media-icon-42148611.png" alt="Twitter" width="60" height="60" style="vertical-align: middle" />
+  <img src="https://i.ibb.co/Q3pKmNL2/twitter.png" alt="Twitter" width="60" height="60" style="vertical-align: middle" />
  </a>
  <a href="https://t.me/mrgainofficial" target="_blank">
-  <img src="https://i.ibb.co/Q3pKmNL2/twitter.png" alt="Telegram" width="60" height="60" style="vertical-align: middle" />
+  <img src="https://i.ibb.co/GvC4CX7Q/telegram.png" alt="Telegram" width="60" height="60" style="vertical-align: middle" />
  </a>
 </p>
